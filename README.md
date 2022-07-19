@@ -1,0 +1,1 @@
+# Algorithmic-Stock-Trading-of-Nifty-50-Python-Zerodha
